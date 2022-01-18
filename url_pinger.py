@@ -1,4 +1,3 @@
-from urllib import response
 import yaml
 import requests
 from tabulate import tabulate
